@@ -3,7 +3,7 @@
 <body>
 username: kamalakar
 passwd: kamal4916@
-hii my name is kamal i am lerning devops aith aws
+hii my name is kamal.
 </body>
 </head>
 </html>
