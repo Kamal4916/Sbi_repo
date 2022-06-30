@@ -1,1 +1,13 @@
+<html> 
+<head>
+<body>
+username: kamalakar
+passwd: kamal4916@
 hii my name is kamal i am lerning devops aith aws
+</body>
+</head>
+</html>
+
+
+
+
